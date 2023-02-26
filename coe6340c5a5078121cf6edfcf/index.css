@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    color: #1F2937;
+    background-color: #1F2937;
+}
+h1 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 25px;
+    color: aliceblue;
+    margin-left: 10px; 
+}
+.rand {
+    color: #4ADF86;
+}
+
+button{
+    color: aliceblue;
+    width: 191px;
+    height: 42px;
+    margin-left: 10px;
+    margin-top: 20px;
+    background: #10B981;
+    border-radius: 10px;
+    border-width: 0
+}
+
+.btn{
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    left: 10px;
+    top: 270px;
+    border: 1px;
+    color: #2F3E53;
+}
+
+.pass1{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 10px;
+    top: 350px;
+    background: #273549;
+    border-radius: 6px;
+    color: #55F991;
+}
+
+.pass2{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 250px;
+    top: 350px;
+    background: #273549;
+    border-radius: 6px;
+    color: #55F991;
+}
